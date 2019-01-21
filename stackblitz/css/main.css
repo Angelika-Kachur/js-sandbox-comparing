@@ -2,6 +2,12 @@ body {
     background: #ecebeb;
 }
 
-h1 {
+h1, h2 {
     color: darkslateblue;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
